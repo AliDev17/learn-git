@@ -2,4 +2,4 @@ function calculateBirthYear(age, current_year) {
     return current_year - age; 
 }
 
-calculateBirthYear(26, 2026)
+calculateBirthYear(26, 2027)
