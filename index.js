@@ -1,4 +1,5 @@
-const MY_AGE=22
-const CURRENT_YEAR=2026
+function calculateBirthYear(age, current_year) {
+    return current_year - age; 
+}
 
-console.log(CURRENT_YEAR - MY_AGE);
+calculateBirthYear(26, 2026)
